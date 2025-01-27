@@ -1,1 +1,3 @@
-# neoliberal_conservationism
+# Neoliberal conservation: on technoscientific control of nature
+
+Project in progress...

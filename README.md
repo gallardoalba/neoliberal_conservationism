@@ -1,4 +1,4 @@
-## Neoliberal conservation: on technoscientific control of life
+## Neoliberal conservation: on technoscientific control of Life
 
 > [...] any approach to knowledge is inherently, deeply political, since the lens through which one looks at the world may foreclose or open spaces for imagination, and thus establish if and what alternatives, both conceptual and practical, are viable.
 > 

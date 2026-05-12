@@ -2,7 +2,7 @@
 
 > [...] any approach to knowledge is inherently, deeply political, since the lens through which one looks at the world may foreclose or open spaces for imagination, and thus establish if and what alternatives, both conceptual and practical, are viable.
 > 
-> -- Clara Mattei, *The Capital Order*
+> -- Clara Mattei, *The Capital Order* (2022)
 
 Project in progress...
 

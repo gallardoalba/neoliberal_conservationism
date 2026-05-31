@@ -8,7 +8,7 @@ Project in progress.
 
 **Bibliography**:
 
-- Biehl, J. Staudenmaier, P. (2011). Ecofascism revisited: lessons from the german experience. New Compass Press.
+- Biehl, J. && Staudenmaier, P. (2011). Ecofascism revisited: lessons from the german experience. New Compass Press.
 - Chapoutot, Johann (2023). Free to obey: how the nazis invented modern management. Europa Compass.
 - Feyerabend, P. (1978). Science in a free society. Schocken Books.
 - Feyerabend, P. (2011). The tyranny of Science. Polity books.

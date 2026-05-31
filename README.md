@@ -12,4 +12,5 @@ Project in progress.
 - Feyerabend, P. (2011). The tyranny of Science. Polity books.
 - Fletcher, R. (2023). Failing forward: The rise and fall of neoliberal conservation. Univ. of California Press.
 - Moore, Jason W. (2015). Capitalism in the Web of Life. Ecology and the accumulation of Capital. Verso.
+- Sorell, Tom (1994). Scientism. Philosophy and the infatuation with Science. Routledge.
 - Worster, D. (1977). Nature's economy: A history of ecological ideas. Sierra Club Books.

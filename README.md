@@ -18,6 +18,7 @@ Project in progress.
 **Bibliography**:
 
 - Biehl, J. (2011). Ecofascism revisited: lessons from the german experience. New Compass Press.
+- Bookchin, M. (2022). The philosophy of social ecology: essays on dialectical naturalism. AK Press.
 - Chapoutot, J. (2023). Free to obey: how the nazis invented modern management. Europa Compass.
 - Feyerabend, P. (1978). Science in a free society. Schocken Books.
 - Feyerabend, P. (2011). The tyranny of Science. Polity books.

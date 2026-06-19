@@ -13,6 +13,10 @@ Neoliberal conservationism operates as a form of biopolitical control that uses 
 - Converts living systems into quantifiable assets and accounting categories
 - Reproduces hierarchies of knowledge that privilege Western science while delegitimizing alternative ways of knowing and managing ecosystems
 
+Thus, the ecological problem stops being treated as a political, and is instead treated as a technical problem that can be optimized.
+
+This shift implies that ecology is managed through a rationality that turns life (and its dynamics) into an object of calculation. As a result, *conservation* does not appear as a break with dominant logics, but as their continuation by other means: what is preserved (or reorganized) is the ecosystem in ways compatible with the dominant economic logic, even when that compatibility is built through technical mediations that obscure the social and material causes of biodiversity collapse.
+
 Project in progress.
 
 **Bibliography**:

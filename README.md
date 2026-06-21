@@ -29,9 +29,12 @@ Thus, the ecological problem stops being treated as a political, and is instead 
 >
 > -- Biodiversity Genomics Europe (BGE), [TECHNICAL REPORT (PART B)](https://github.com/user-attachments/files/29184038/BGE_3rdPR_M31-M42_v2.1.pdf)
 
-
-
 This shift implies that ecology is managed through a rationality that turns life (and its dynamics) into an object of calculation. As a result, *conservation* does not appear as a break with dominant logics, but as their continuation by other means: what is preserved (or reorganized) is the ecosystem in ways compatible with the dominant economic logic, even when that compatibility is built through technical mediations that obscure the social and material causes of biodiversity collapse.
+
+> A new wave of biodiversity innovation is emerging, utilising cutting-edge genomic tools as digital monitoring systems with great potential
+> to draw on AI-powered decision-making.
+>
+> -- Biodiversity innovation: Enabling technology for nature and green growth (2025), [ScienceBussines.net](https://sciencebusiness.net/events/biodiversity-innovation-enabling-technology-nature-and-green-growth)
 
 Project in progress.
 

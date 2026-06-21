@@ -27,7 +27,7 @@ Thus, the ecological problem stops being treated as a political, and is instead 
 > - Application: Apply genomics tools to enhance the understanding of pan-European biodiversity and biodiversity declines to improve the
 > efficacy of management interventions and biomonitoring programmes.
 >
-> -- Biodiversity Genomics Europe (BGE) (2026), [technical report (part B)](https://github.com/user-attachments/files/29184038/BGE_3rdPR_M31-M42_v2.1.pdf)
+> --  Technical report, part B (2026), [Biodiversity Genomics Europe (BGE)](https://github.com/user-attachments/files/29184038/BGE_3rdPR_M31-M42_v2.1.pdf)
 
 This shift implies that ecology is managed through a rationality that turns life (and its dynamics) into an object of calculation. As a result, *conservation* does not appear as a break with dominant logics, but as their continuation by other means: what is preserved (or reorganized) is the ecosystem in ways compatible with the dominant economic logic, even when that compatibility is built through technical mediations that obscure the social and material causes of biodiversity collapse.
 

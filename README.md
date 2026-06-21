@@ -15,6 +15,22 @@ Neoliberal conservationism operates as a form of biopolitical control that uses 
 
 Thus, the ecological problem stops being treated as a political, and is instead treated as a technical problem that can be optimized.
 
+> The BGE Consortium has the overriding aim of accelerating the use of genomic science to enhance understanding of biodiversity, monitor
+> biodiversity change, and guide interventions to address its decline.
+>
+> BGE has three key objectives:
+> 
+> - Capacity: Establish functioning biodiversity genomics networks at the European level to connect and grow community capacity to tackle
+> the biodiversity crisis using genomic tools.
+> - Production: Establish and implement large-scale biodiversity genomics data generation pipelines for Europe to accelerate the production
+> and accessibility of genomics data for biodiversity characterisation, conservation, and biomonitoring.
+> - Application: Apply genomics tools to enhance the understanding of pan-European biodiversity and biodiversity declines to improve the
+> efficacy of management interventions and biomonitoring programmes.
+>
+> -- Biodiversity Genomics Europe (BGE), [TECHNICAL REPORT (PART B)](https://github.com/user-attachments/files/29184038/BGE_3rdPR_M31-M42_v2.1.pdf)
+
+
+
 This shift implies that ecology is managed through a rationality that turns life (and its dynamics) into an object of calculation. As a result, *conservation* does not appear as a break with dominant logics, but as their continuation by other means: what is preserved (or reorganized) is the ecosystem in ways compatible with the dominant economic logic, even when that compatibility is built through technical mediations that obscure the social and material causes of biodiversity collapse.
 
 Project in progress.

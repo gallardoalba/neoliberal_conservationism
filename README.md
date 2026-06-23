@@ -6,12 +6,11 @@
 
 ### Core Thesis
 
-Neoliberal conservationism operates as a form of biopolitical control that uses technoscience as its primary instrument. Rather than fundamentally questioning the relationship between capital accumulation and ecological destruction, it seeks to manage and rationalize that relationship through markets, metrics, and technological intervention. In doing so, it:
+The framework-shift driven by neoliberal-conservationism relies on the evasion of questioning the relationship between capital accumulation and ecological destruction, and the ambition to manage and rationalize that relationship through markets, metrics, and technological intervention. In doing so, it:
 
-- Naturalizes capitalism by presenting it as compatible with ecological sustainability
-- Displaces democratic deliberation with expert-driven technical management
-- Converts living systems into quantifiable assets and accounting categories
-- Reproduces hierarchies of knowledge that privilege Western science while delegitimizing alternative ways of knowing and managing ecosystems
+- Naturalizes capitalism by presenting it as compatible with ecological sustainability.
+- Displaces democratic deliberation with expert-driven technical management.
+- Converts living systems into quantifiable assets and accounting categories.
 
 Thus, the ecological problem stops being treated as a political, and is instead treated as a technical problem that can be optimized.
 
